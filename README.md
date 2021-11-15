@@ -8,12 +8,13 @@ Edit the Xbase 999 with your phone or tablet.
 
 **Editor Demo:** https://www.youtube.com/watch?v=Wz_hP4VLxXs&feature=youtu.be
 
+**Get help**
+
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
 
-# Support this project
-
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+**Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![enter image description here](https://www.modularsamples.com/img/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301.png)
+](https://www.modularsamples.com/artuira-microfreak-patch-collection/)
