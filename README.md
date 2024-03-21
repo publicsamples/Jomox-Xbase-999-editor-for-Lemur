@@ -8,11 +8,6 @@ Edit the Xbase 999 with your phone or tablet.
 
 **Editor Demo:** https://www.youtube.com/watch?v=Wz_hP4VLxXs&feature=youtu.be
 
-**Get help**
-
-[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
-
-
 **Support this project**
 
 [
